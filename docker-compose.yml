@@ -1,0 +1,4 @@
+services:
+  cuenta-bancaria:
+    build: .
+    container_name: ejercicio3-hilos-lock
